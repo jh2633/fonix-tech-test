@@ -10,3 +10,8 @@ Instructions
 * Initiate Grails and run the app
   * >Grails
   * >run-app
+
+Under construction
+* Create user
+* Signing-in creates an encrypted code associated with the user in the db
+* Entering the code to complete two-factor authentication
