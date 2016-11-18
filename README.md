@@ -4,6 +4,7 @@ This web app was developed using the Grails framework, with log-in functions fro
 Instructions
 * Install Grails (https://grails.org/)
 * Setup a Postgres database if using
+* Set the Postgres username to corresponding user
 * Pull this repo
 * In IDE, run Grails compile
 * Initiate Grails and run the app
